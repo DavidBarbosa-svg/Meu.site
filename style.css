@@ -148,3 +148,7 @@ section h2 {
     border-radius: 5px;
     border: none;
 }
+
+.coluna:first-child {
+    margin-top: 0;
+}
